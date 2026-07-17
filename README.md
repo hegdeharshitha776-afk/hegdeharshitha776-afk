@@ -1,6 +1,8 @@
 Hi, I'm Harshitha L 👋
+
 BBA Business Analytics Student | Data Enthusiast
 I'm a 3rd-year Business Administration student at PES University, Bengaluru, specializing in Business Analytics. I'm currently working as a Data Analytics Intern, applying data-driven thinking to real business problems.
+
 🎯 About Me
 🎓 Pursuing BBA in Business Analytics at PES University, Bengaluru
 💼 Currently a Data Analytics Intern at Rivoquix Learning Private Limited
@@ -12,6 +14,7 @@ I'm a 3rd-year Business Administration student at PES University, Bengaluru, spe
 Data & Analytics: MS Excel · SQL · Python (basics) · Tableau · Power BI · SAS
 Presentation & Design: PowerPoint · Canva
 Core Strengths: Communication · Teamwork · Adaptability
+
 
 📁 Featured Project
 Personal Finance Analytics
